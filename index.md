@@ -16,7 +16,7 @@ I used SQL again for this project, analyzing healthcare data from 1999-2008 to i
 In this project, I used SQL to examine data about the International Development Association (IDA), part of World Banks. Let me know what you think!
 
 ---
-#### [Massachusetts Education Analysis - Tableau](/MA Ed Project)
+#### [Massachusetts Education Analysis - Tableau](https://www.linkedin.com/pulse/data-driven-insights-education-analyzing-school-busting-nate-mulatu-hx1pe/)
 <img src="images/Tableau_Education_Project_Cover.png?raw=true"/>
 In this project, I used Tableau to analyze and visualize data about education data in Massachusetts. Take a look to see what I found!
 
