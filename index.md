@@ -23,7 +23,6 @@ In this project, I used Tableau to analyze and visualize data about education da
 ---
 #### [Data: It's What's for Dinner - Excel Project](https://www.linkedin.com/pulse/1m-demographics-trap-how-misreading-customer-age-costing-nate-mulatu-md8fe/)
 [<img src="images/Doordash_Excel_Project_Cover.png?raw=true"/>](https://www.linkedin.com/pulse/data-its-whats-dinner-erin-shina/?trk=public_profile-settings_article_view)
-
-Analyzing 2,021 customers across 45 features in Excel, this project disproves the assumption that a platform's largest user base is its most profitable. The analysis revealed that while the 36–50 demographic is the largest group (855 users), they yield the lowest average spend ($453/person); conversely, the 51–65 group drives the platform's revenue engine, generating $400,646 (37% of total revenue) due to higher median income. By proving that income—not age alone—is the true driver of customer lifetime value, this project demonstrates how data-driven segmentation prevents wasted ad spend and optimizes high-value loyalty retention.
+Check out my write-up for a project I completed in Excel, where I analyzed marketing data for a food delivery company.
 
 
