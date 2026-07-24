@@ -6,12 +6,12 @@
 This is a landing page for projects I've completed while exploring tools for data analysis. Check it out!
 
 ---
-#### [Healthcare Data Analysis - SQL](https://www.linkedin.com/pulse/waiting-discharge-analysis-length-hospital-stay-erin-shina/)
+#### [Healthcare Data Analysis - SQL](https://www.linkedin.com/pulse/)
 [<img src="images/Healthcare_analysis_tbd.png?raw=true"/>](https://www.linkedin.com/pulse/waaiting-discharge-analysis-length-hospital-stay-erin-shina/)
 I used SQL again for this project, analyzing healthcare data from 1999-2008 to investigate hospital length of stay. 
 
 ---
-#### [Financial Data Analysis - SQL](https://www.linkedin.com/pulse/i-like-big-banks-cannot-lie-erin-shina/?trackingId=agvQsnThRJWKk2pESFuvRw%3D%3D)
+#### [Financial Data Analysis - SQL](https://www.linkedin.com/pulse/)
 [<img src="images/banking_tbd.png?raw=true"/>](https://www.linkedin.com/pulse/i-like-bigg-banks-cannot-lie-erin-shina/?trackingId=agvQsnThRJWKk2pESFuvRw%3D%3D)
 In this project, I used SQL to examine data about the International Development Association (IDA), part of World Banks. Let me know what you think!
 
