@@ -7,7 +7,7 @@ This is a landing page for projects I've completed while exploring tools for dat
 
 ---
 #### [Healthcare Data Analysis - SQL](https://www.linkedin.com/pulse/waiting-discharge-analysis-length-hospital-stay-erin-shina/)
-[<img src="images/Healthcare Analysis Header.png?raw=true"/>](https://www.linkedin.com/pulse/waiting-discharge-analysis-length-hospital-stay-erin-shina/)
+[<img src="images/Healthcare_analysis_tbd.png?raw=true"/>](https://www.linkedin.com/pulse/waiting-discharge-analysis-length-hospital-stay-erin-shina/)
 I used SQL again for this project, analyzing healthcare data from 1999-2008 to investigate hospital length of stay. 
 
 ---
