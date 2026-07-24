@@ -21,7 +21,7 @@ In this project, I used SQL to examine data about the International Development 
 In this project, I used Tableau to analyze and visualize data about education data in Massachusetts. Take a look to see what I found!
 
 ---
-#### [Data: It's What's for Dinner - Excel Project](https://www.linkedin.com/pulse/data-its-whats-dinner-erin-shina/?trk=public_profile-settings_article_view)
+#### [Data: It's What's for Dinner - Excel Project](https://www.linkedin.com/pulse/1m-demographics-trap-how-misreading-customer-age-costing-nate-mulatu-md8fe/)
 [<img src="images/DoorDash + Data = Delicious.png?raw=true"/>](https://www.linkedin.com/pulse/data-its-whats-dinner-erin-shina/?trk=public_profile-settings_article_view)
 Check out my write up for a project I did in Excel, analyzing marketing data for a company similar to DoorDash.
 
