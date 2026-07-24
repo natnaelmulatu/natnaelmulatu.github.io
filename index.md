@@ -1,4 +1,4 @@
-<img src="images/Portfolio_cover1.png?raw=true"/>
+<img src="images/Portfolio_cover_2.jpg?raw=true"/>
 
 ---
 
