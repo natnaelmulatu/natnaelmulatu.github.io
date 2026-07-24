@@ -24,18 +24,6 @@ In this project, I used Tableau to analyze and visualize data about education da
 #### [Data: It's What's for Dinner - Excel Project](https://www.linkedin.com/pulse/1m-demographics-trap-how-misreading-customer-age-costing-nate-mulatu-md8fe/)
 [<img src="images/Doordash_Excel_Project_Cover.png?raw=true"/>](https://www.linkedin.com/pulse/data-its-whats-dinner-erin-shina/?trk=public_profile-settings_article_view)
 
-The Brief
-<br>
-Analyzing 2,021 customers across 45 features in Excel, this project tests whether customer age predicts spending power—disproving the assumption that a platform's largest user base is its most profitable.
-<br>
-Key Quantified Takeaways
-<br>
-The Volume Trap: The 36–50 age group is the largest demographic (855 users), but yields the lowest average spend at $453/person.
-The Revenue Engine: The 51–65 group drives the bottom line, generating $400,646 (37% of total revenue).
-Core Insight: Income—not age alone—is the primary driver of customer lifetime value.
-<br>
-Business Impact
-<br>
-Demonstrates how data-backed segmentation stops wasted ad spend, targets high-value loyalty programs, and boosts revenue across underperforming segments.
+Analyzing 2,021 customers across 45 features in Excel, this project disproves the assumption that a platform's largest user base is its most profitable. The analysis revealed that while the 36–50 demographic is the largest group (855 users), they yield the lowest average spend ($453/person); conversely, the 51–65 group drives the platform's revenue engine, generating $400,646 (37% of total revenue) due to higher median income. By proving that income—not age alone—is the true driver of customer lifetime value, this project demonstrates how data-driven segmentation prevents wasted ad spend and optimizes high-value loyalty retention.
 
 
