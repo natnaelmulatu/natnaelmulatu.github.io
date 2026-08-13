@@ -6,7 +6,7 @@
 This is a landing page for projects I've completed while exploring tools for data analysis. Check it out!
 
 ---
-#### [Healthcare Data Analysis - SQL](https://www.linkedin.com/pulse/)
+#### [Healthcare Data Analysis - SQL](https://www.linkedin.com/pulse/13000-hospital-stay-what-170000-patient-records-revealed-nate-mulatu-zjdze/)
 [<img src="images/healthcare_cover.png?raw=true"/>](https://www.linkedin.com/pulse/13000-hospital-stay-what-170000-patient-records-revealed-nate-mulatu-zjdze/)
 
 $3,025 per day. That’s the average cost of a hospital stay in the U.S. 🏥 To see where those clinical resources actually go, I queried a dataset of 170,000+ patient records using SQL.
