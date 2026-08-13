@@ -7,13 +7,9 @@ This is a landing page for projects I've completed while exploring tools for dat
 
 ---
 #### [Healthcare Data Analysis - SQL](https://www.linkedin.com/pulse/)
-[<img src="images/Healthcare_analysis_tbd.png?raw=true"/>](https://www.linkedin.com/pulse/waaiting-discharge-analysis-length-hospital-stay-erin-shina/)
-I used SQL again for this project, analyzing healthcare data from 1999-2008 to investigate hospital length of stay. 
-
----
-#### [Financial Data Analysis - SQL](https://www.linkedin.com/pulse/)
-[<img src="images/banking_tbd.png?raw=true"/>](https://www.linkedin.com/pulse/i-like-bigg-banks-cannot-lie-erin-shina/?trackingId=agvQsnThRJWKk2pESFuvRw%3D%3D)
-In this project, I used SQL to examine data about the International Development Association (IDA), part of World Banks. Let me know what you think!
+[<img src="images/healthcare_cover.png?raw=true"/>](https://www.linkedin.com/pulse/waaiting-discharge-analysis-length-hospital-stay-erin-shina/)
+$3,025 per day. That’s the average cost of a hospital stay in the U.S. 🏥 To see where those clinical resources actually go, I queried a dataset of 170,000+ patient records using SQL.
+ 
 
 ---
 #### [Massachusetts Education Analysis - Tableau](https://www.linkedin.com/pulse/data-driven-insights-education-analyzing-school-busting-nate-mulatu-hx1pe/)
