@@ -6,6 +6,15 @@
 This is a landing page for projects I've completed while exploring tools for data analysis. Check it out!
 
 ---
+#### [Sports Analytics - Tableau](https://www.linkedin.com/pulse/i-knew-nothing-basketball-put-nba-tableau-nate-mulatu-bpage/)
+[<img src="images/Sports_Cover_Photo.png?raw=true"/>](https://www.linkedin.com/pulse/i-knew-nothing-basketball-put-nba-tableau-nate-mulatu-bpage/)
+
+In this project, I explored NBA player performance, team scoring, age groups, and positional playmaking to see what the data could reveal.
+
+
+
+---
+
 #### [Healthcare Data Analysis - SQL](https://www.linkedin.com/pulse/13000-hospital-stay-what-170000-patient-records-revealed-nate-mulatu-zjdze/)
 [<img src="images/healthcare_cover.png?raw=true"/>](https://www.linkedin.com/pulse/13000-hospital-stay-what-170000-patient-records-revealed-nate-mulatu-zjdze/)
 
